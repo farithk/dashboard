@@ -7,8 +7,8 @@ import 'firebase/auth'
     databaseURL: "https://admin-toynovo.firebaseio.com",
     projectId: "admin-toynovo",
     storageBucket: "admin-toynovo.appspot.com",
-    messagingSenderId: "770088891947",
-    appId: "1:770088891947:web:b9c5665221c1469ecc5c6e"
+    messagingSenderId: "",
+    appId: ""
 
   };
 
