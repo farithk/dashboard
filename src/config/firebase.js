@@ -2,7 +2,7 @@ import firebase from 'firebase/app'
 import 'firebase/auth'
 
  var firebaseConfig = {
-    apiKey: "AIzaSyCb_QSCHbxO1FR7Sgxx3us5MMc24pFJc1I",
+    apiKey: "",
     authDomain: "admin-toynovo.firebaseapp.com",
     databaseURL: "https://admin-toynovo.firebaseio.com",
     projectId: "admin-toynovo",
